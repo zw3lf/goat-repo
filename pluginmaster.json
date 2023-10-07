@@ -6,7 +6,7 @@
     "Description": "Import map coordinates from various sources (e.g. Siren Hunts or Bear Toolkit) and dump them into echo chat. Use /ci to open the dialog box.",
     "Changelog": "Check commit messages :shrug:",
     "InternalName": "CoordImporter",
-    "AssemblyVersion": "0.0.0.10",
+    "AssemblyVersion": "0.0.0.11",
     "RepoUrl": "https://github.com/zw3lf/ffxiv-coord-importer",
     "ApplicableVersion": "any",
     "Tags": [
@@ -23,6 +23,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zw3lf/goat-repo/main/plugins/CoordImporter/latest.zip",
     "DownloadCount": 0,
     "DalamudApiLevel": 9,
-    "LastUpdate": "1696694123"
+    "LastUpdate": "1696696749"
   }
 ]
